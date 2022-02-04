@@ -1,0 +1,25 @@
+/*TAG SELECTOR*/
+  body {
+    background-color: #EDF6E5;
+  }
+
+  hr {
+    background-color: #EDF6E5;
+    border-style: dotted none none none;
+    border-width: 10px;
+    width: 4%;
+  }
+
+  h1, h3 {
+    color: #F38BA0;
+  }
+
+/*CLASS SELECTOR*/
+/*can be used in multiple places*/
+.profilePicture {
+  color:transparent;
+}
+
+
+/*ID selector*/
+/*can only be used once*/
